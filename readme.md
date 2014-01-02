@@ -22,3 +22,4 @@ Last Updates
  * 02-01-2014 20:14 Fixed Readme & fixed "Auto Push new Version"
  * 02-01-2014 20:30 Version: 3.0.0.1
  * 02-01-2014 20:34 Version: 3.0.0.2
+ * 02-01-2014 20:44 Version: 3.0.0.3
