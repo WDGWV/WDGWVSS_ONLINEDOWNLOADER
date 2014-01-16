@@ -31,3 +31,4 @@ Last Updates
  * 16-JAN-2014 21:53 Version: 3.0.0.9
  * 16-JAN-2014 22:00 Version: 3.0.1.0
  * 16-JAN-2014 22:01 Version: 3.0.1.1
+ * 16-JAN-2014 22:01 Version: 3.0.1.2
