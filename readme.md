@@ -14,9 +14,9 @@
 
 ##This is the "Download" repo for online install.
 
-Expected Release: 3.1.0.0
-Expected Beta:    3.0.5.0 +
-Expected Alpha:   3.0.0.0 +
+* Expected Release: 3.1.0.0
+* Expected Beta:    3.0.5.0 +  
+* Expected Alpha:   3.0.0.0 + 
 
 ---
 
