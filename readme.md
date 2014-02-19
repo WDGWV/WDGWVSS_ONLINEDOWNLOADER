@@ -34,3 +34,4 @@
  * 10-JAN-2014 23:38 Version: 3.0.0.6
  * 13-JAN-2014 21:18 Version: 3.0.0.7
  * 16-JAN-2014 22:01 Version: 3.0.1.2 (Sorry.). (Expected release, 3.1.x.x)
+ * 19-FEB-2014 20:23 Version: 3.0.1.3
