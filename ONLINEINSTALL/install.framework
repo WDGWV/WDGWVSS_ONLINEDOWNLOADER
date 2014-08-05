@@ -218,7 +218,7 @@ function parseSetupFiles ( $filesString )
 						if ( $file1 && $file2 )
 						{
 							if ( substr( PHP_OS, 0, 3 ) == 'WIN' )
-								@system('attrib +h ' . base64_decode ( $file[0] ) . '.version');
+								@system('attrib +h .' . base64_decode ( $file[0] ));
 
 							$setupLog['info'][] = 'File "' . base64_decode ( $file[0] ) . '" Created';
 						}
